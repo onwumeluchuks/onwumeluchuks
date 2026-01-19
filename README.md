@@ -12,6 +12,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)] Coming Soon ...**
 
+## 🚨 Governance, Risk and Compliance
+
+- **[Omidala Group IT Audit - ISO 27001)] Coming Soon ...**
+- **[Omidala Group ITSM Policies - ISO 27001 Compliant)] Coming Soon ...**
+- **[Omidala Group Incidence Response Playbooks - NIST 800-61)] Coming Soon ...**
 <hr/>
 
 ## 🤳 Connect With Me
