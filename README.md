@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)] Coming Soon ...**
 
-## 🚨 Governance, Risk and Compliance
+## <img width="25" height="25" alt="grc" src="https://github.com/user-attachments/assets/83a9b212-01f3-41bc-b9b0-d3283b291820" />  Governance, Risk and Compliance
 
 - **[Omidala Group IT Audit - ISO 27001)] Coming Soon ...**
 - **[Omidala Group ITSM Policies - ISO 27001 Compliant)] Coming Soon ...**
